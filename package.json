@@ -1,0 +1,21 @@
+{
+  "name": "curso-js-tdd",
+  "version": "1.0.0",
+  "description": "biblioteca do curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AdalbertoMaranhao/js-tdd)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "teste"
+  ],
+  "author": "Adalberto de Lima <limadalberto@gmail.com>",
+  "license": "MIT"
+}
